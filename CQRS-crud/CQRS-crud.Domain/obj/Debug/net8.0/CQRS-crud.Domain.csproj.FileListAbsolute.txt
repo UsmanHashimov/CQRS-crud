@@ -1,0 +1,11 @@
+C:\Users\A C E R   N I T R O\Documents\.NET\Uy ishi\CQRS-crud\CQRS-crud.Domain\bin\Debug\net8.0\CQRS-crud.Domain.deps.json
+C:\Users\A C E R   N I T R O\Documents\.NET\Uy ishi\CQRS-crud\CQRS-crud.Domain\bin\Debug\net8.0\CQRS-crud.Domain.dll
+C:\Users\A C E R   N I T R O\Documents\.NET\Uy ishi\CQRS-crud\CQRS-crud.Domain\bin\Debug\net8.0\CQRS-crud.Domain.pdb
+C:\Users\A C E R   N I T R O\Documents\.NET\Uy ishi\CQRS-crud\CQRS-crud.Domain\obj\Debug\net8.0\CQRS-crud.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\A C E R   N I T R O\Documents\.NET\Uy ishi\CQRS-crud\CQRS-crud.Domain\obj\Debug\net8.0\CQRS-crud.Domain.AssemblyInfoInputs.cache
+C:\Users\A C E R   N I T R O\Documents\.NET\Uy ishi\CQRS-crud\CQRS-crud.Domain\obj\Debug\net8.0\CQRS-crud.Domain.AssemblyInfo.cs
+C:\Users\A C E R   N I T R O\Documents\.NET\Uy ishi\CQRS-crud\CQRS-crud.Domain\obj\Debug\net8.0\CQRS-crud.Domain.csproj.CoreCompileInputs.cache
+C:\Users\A C E R   N I T R O\Documents\.NET\Uy ishi\CQRS-crud\CQRS-crud.Domain\obj\Debug\net8.0\CQRS-crud.Domain.dll
+C:\Users\A C E R   N I T R O\Documents\.NET\Uy ishi\CQRS-crud\CQRS-crud.Domain\obj\Debug\net8.0\refint\CQRS-crud.Domain.dll
+C:\Users\A C E R   N I T R O\Documents\.NET\Uy ishi\CQRS-crud\CQRS-crud.Domain\obj\Debug\net8.0\CQRS-crud.Domain.pdb
+C:\Users\A C E R   N I T R O\Documents\.NET\Uy ishi\CQRS-crud\CQRS-crud.Domain\obj\Debug\net8.0\ref\CQRS-crud.Domain.dll

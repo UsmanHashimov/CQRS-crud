@@ -1,0 +1,360 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\A C E R   N I T R O\\Documents\\.NET\\Uy ishi\\CQRS-crud\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{196CB77B-A6E9-475A-BB4E-428A57836723}|API\\API.csproj|c:\\users\\a c e r   n i t r o\\documents\\.net\\uy ishi\\cqrs-crud\\api\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{196CB77B-A6E9-475A-BB4E-428A57836723}|API\\API.csproj|solutionrelative:api\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{196CB77B-A6E9-475A-BB4E-428A57836723}|API\\API.csproj|c:\\users\\a c e r   n i t r o\\documents\\.net\\uy ishi\\cqrs-crud\\api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{196CB77B-A6E9-475A-BB4E-428A57836723}|API\\API.csproj|solutionrelative:api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{120FA084-5C4E-4F38-84C8-42D5935DCC5D}|CQRS-crud.Infrastructure\\CQRS-crud.Infrastructure.csproj|c:\\users\\a c e r   n i t r o\\documents\\.net\\uy ishi\\cqrs-crud\\cqrs-crud.infrastructure\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{120FA084-5C4E-4F38-84C8-42D5935DCC5D}|CQRS-crud.Infrastructure\\CQRS-crud.Infrastructure.csproj|solutionrelative:cqrs-crud.infrastructure\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{120FA084-5C4E-4F38-84C8-42D5935DCC5D}|CQRS-crud.Infrastructure\\CQRS-crud.Infrastructure.csproj|c:\\users\\a c e r   n i t r o\\documents\\.net\\uy ishi\\cqrs-crud\\cqrs-crud.infrastructure\\persistence\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{120FA084-5C4E-4F38-84C8-42D5935DCC5D}|CQRS-crud.Infrastructure\\CQRS-crud.Infrastructure.csproj|solutionrelative:cqrs-crud.infrastructure\\persistence\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AEE10948-9CE7-4C9B-B6F4-3EE89E79AEB8}|CQRS-crud.Application\\CQRS-crud.Application.csproj|c:\\users\\a c e r   n i t r o\\documents\\.net\\uy ishi\\cqrs-crud\\cqrs-crud.application\\usecases\\users\\handlers\\getalluserscommandqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AEE10948-9CE7-4C9B-B6F4-3EE89E79AEB8}|CQRS-crud.Application\\CQRS-crud.Application.csproj|solutionrelative:cqrs-crud.application\\usecases\\users\\handlers\\getalluserscommandqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AEE10948-9CE7-4C9B-B6F4-3EE89E79AEB8}|CQRS-crud.Application\\CQRS-crud.Application.csproj|c:\\users\\a c e r   n i t r o\\documents\\.net\\uy ishi\\cqrs-crud\\cqrs-crud.application\\usecases\\users\\handlers\\createusercommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AEE10948-9CE7-4C9B-B6F4-3EE89E79AEB8}|CQRS-crud.Application\\CQRS-crud.Application.csproj|solutionrelative:cqrs-crud.application\\usecases\\users\\handlers\\createusercommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AEE10948-9CE7-4C9B-B6F4-3EE89E79AEB8}|CQRS-crud.Application\\CQRS-crud.Application.csproj|c:\\users\\a c e r   n i t r o\\documents\\.net\\uy ishi\\cqrs-crud\\cqrs-crud.application\\usecases\\users\\handlers\\deleteusercommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AEE10948-9CE7-4C9B-B6F4-3EE89E79AEB8}|CQRS-crud.Application\\CQRS-crud.Application.csproj|solutionrelative:cqrs-crud.application\\usecases\\users\\handlers\\deleteusercommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{196CB77B-A6E9-475A-BB4E-428A57836723}|API\\API.csproj|c:\\users\\a c e r   n i t r o\\documents\\.net\\uy ishi\\cqrs-crud\\api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{196CB77B-A6E9-475A-BB4E-428A57836723}|API\\API.csproj|solutionrelative:api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AEE10948-9CE7-4C9B-B6F4-3EE89E79AEB8}|CQRS-crud.Application\\CQRS-crud.Application.csproj|c:\\users\\a c e r   n i t r o\\documents\\.net\\uy ishi\\cqrs-crud\\cqrs-crud.application\\usecases\\users\\handlers\\getuserbyidcommandqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AEE10948-9CE7-4C9B-B6F4-3EE89E79AEB8}|CQRS-crud.Application\\CQRS-crud.Application.csproj|solutionrelative:cqrs-crud.application\\usecases\\users\\handlers\\getuserbyidcommandqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AEE10948-9CE7-4C9B-B6F4-3EE89E79AEB8}|CQRS-crud.Application\\CQRS-crud.Application.csproj|c:\\users\\a c e r   n i t r o\\documents\\.net\\uy ishi\\cqrs-crud\\cqrs-crud.application\\usecases\\users\\queries\\getalluserscommandquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AEE10948-9CE7-4C9B-B6F4-3EE89E79AEB8}|CQRS-crud.Application\\CQRS-crud.Application.csproj|solutionrelative:cqrs-crud.application\\usecases\\users\\queries\\getalluserscommandquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AEE10948-9CE7-4C9B-B6F4-3EE89E79AEB8}|CQRS-crud.Application\\CQRS-crud.Application.csproj|c:\\users\\a c e r   n i t r o\\documents\\.net\\uy ishi\\cqrs-crud\\cqrs-crud.application\\usecases\\users\\queries\\getuserbyidcommandquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AEE10948-9CE7-4C9B-B6F4-3EE89E79AEB8}|CQRS-crud.Application\\CQRS-crud.Application.csproj|solutionrelative:cqrs-crud.application\\usecases\\users\\queries\\getuserbyidcommandquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB49F8F3-F977-4875-A107-F29645517BB8}|CQRS-crud.Domain\\CQRS-crud.Domain.csproj|c:\\users\\a c e r   n i t r o\\documents\\.net\\uy ishi\\cqrs-crud\\cqrs-crud.domain\\entities\\exceptions\\usernotfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB49F8F3-F977-4875-A107-F29645517BB8}|CQRS-crud.Domain\\CQRS-crud.Domain.csproj|solutionrelative:cqrs-crud.domain\\entities\\exceptions\\usernotfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AEE10948-9CE7-4C9B-B6F4-3EE89E79AEB8}|CQRS-crud.Application\\CQRS-crud.Application.csproj|c:\\users\\a c e r   n i t r o\\documents\\.net\\uy ishi\\cqrs-crud\\cqrs-crud.application\\usecases\\users\\commands\\deleteusercommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AEE10948-9CE7-4C9B-B6F4-3EE89E79AEB8}|CQRS-crud.Application\\CQRS-crud.Application.csproj|solutionrelative:cqrs-crud.application\\usecases\\users\\commands\\deleteusercommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AEE10948-9CE7-4C9B-B6F4-3EE89E79AEB8}|CQRS-crud.Application\\CQRS-crud.Application.csproj|c:\\users\\a c e r   n i t r o\\documents\\.net\\uy ishi\\cqrs-crud\\cqrs-crud.application\\usecases\\users\\handlers\\updateusercommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AEE10948-9CE7-4C9B-B6F4-3EE89E79AEB8}|CQRS-crud.Application\\CQRS-crud.Application.csproj|solutionrelative:cqrs-crud.application\\usecases\\users\\handlers\\updateusercommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AEE10948-9CE7-4C9B-B6F4-3EE89E79AEB8}|CQRS-crud.Application\\CQRS-crud.Application.csproj|c:\\users\\a c e r   n i t r o\\documents\\.net\\uy ishi\\cqrs-crud\\cqrs-crud.application\\usecases\\users\\commands\\updateusercommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AEE10948-9CE7-4C9B-B6F4-3EE89E79AEB8}|CQRS-crud.Application\\CQRS-crud.Application.csproj|solutionrelative:cqrs-crud.application\\usecases\\users\\commands\\updateusercommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AEE10948-9CE7-4C9B-B6F4-3EE89E79AEB8}|CQRS-crud.Application\\CQRS-crud.Application.csproj|c:\\users\\a c e r   n i t r o\\documents\\.net\\uy ishi\\cqrs-crud\\cqrs-crud.application\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AEE10948-9CE7-4C9B-B6F4-3EE89E79AEB8}|CQRS-crud.Application\\CQRS-crud.Application.csproj|solutionrelative:cqrs-crud.application\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AEE10948-9CE7-4C9B-B6F4-3EE89E79AEB8}|CQRS-crud.Application\\CQRS-crud.Application.csproj|c:\\users\\a c e r   n i t r o\\documents\\.net\\uy ishi\\cqrs-crud\\cqrs-crud.application\\usecases\\users\\commands\\createusercommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AEE10948-9CE7-4C9B-B6F4-3EE89E79AEB8}|CQRS-crud.Application\\CQRS-crud.Application.csproj|solutionrelative:cqrs-crud.application\\usecases\\users\\commands\\createusercommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AEE10948-9CE7-4C9B-B6F4-3EE89E79AEB8}|CQRS-crud.Application\\CQRS-crud.Application.csproj|c:\\users\\a c e r   n i t r o\\documents\\.net\\uy ishi\\cqrs-crud\\cqrs-crud.application\\mappers\\automapperprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AEE10948-9CE7-4C9B-B6F4-3EE89E79AEB8}|CQRS-crud.Application\\CQRS-crud.Application.csproj|solutionrelative:cqrs-crud.application\\mappers\\automapperprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB49F8F3-F977-4875-A107-F29645517BB8}|CQRS-crud.Domain\\CQRS-crud.Domain.csproj|c:\\users\\a c e r   n i t r o\\documents\\.net\\uy ishi\\cqrs-crud\\cqrs-crud.domain\\entities\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB49F8F3-F977-4875-A107-F29645517BB8}|CQRS-crud.Domain\\CQRS-crud.Domain.csproj|solutionrelative:cqrs-crud.domain\\entities\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AEE10948-9CE7-4C9B-B6F4-3EE89E79AEB8}|CQRS-crud.Application\\CQRS-crud.Application.csproj|c:\\users\\a c e r   n i t r o\\documents\\.net\\uy ishi\\cqrs-crud\\cqrs-crud.application\\abstractions\\iappdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AEE10948-9CE7-4C9B-B6F4-3EE89E79AEB8}|CQRS-crud.Application\\CQRS-crud.Application.csproj|solutionrelative:cqrs-crud.application\\abstractions\\iappdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\A C E R   N I T R O\\Documents\\.NET\\Uy ishi\\CQRS-crud\\API\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "API\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\A C E R   N I T R O\\Documents\\.NET\\Uy ishi\\CQRS-crud\\API\\Controllers\\UserController.cs",
+              "RelativeToolTip": "API\\Controllers\\UserController.cs",
+              "ViewState": "AQIAACcAAAAAAAAAAAAowDMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-12T12:32:27.022Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CreateUserCommandHandler.cs",
+              "DocumentMoniker": "C:\\Users\\A C E R   N I T R O\\Documents\\.NET\\Uy ishi\\CQRS-crud\\CQRS-crud.Application\\UseCases\\Users\\Handlers\\CreateUserCommandHandler.cs",
+              "RelativeDocumentMoniker": "CQRS-crud.Application\\UseCases\\Users\\Handlers\\CreateUserCommandHandler.cs",
+              "ToolTip": "C:\\Users\\A C E R   N I T R O\\Documents\\.NET\\Uy ishi\\CQRS-crud\\CQRS-crud.Application\\UseCases\\Users\\Handlers\\CreateUserCommandHandler.cs",
+              "RelativeToolTip": "CQRS-crud.Application\\UseCases\\Users\\Handlers\\CreateUserCommandHandler.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-12T09:50:23.478Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "GetAllUsersCommandQueryHandler.cs",
+              "DocumentMoniker": "C:\\Users\\A C E R   N I T R O\\Documents\\.NET\\Uy ishi\\CQRS-crud\\CQRS-crud.Application\\UseCases\\Users\\Handlers\\GetAllUsersCommandQueryHandler.cs",
+              "RelativeDocumentMoniker": "CQRS-crud.Application\\UseCases\\Users\\Handlers\\GetAllUsersCommandQueryHandler.cs",
+              "ToolTip": "C:\\Users\\A C E R   N I T R O\\Documents\\.NET\\Uy ishi\\CQRS-crud\\CQRS-crud.Application\\UseCases\\Users\\Handlers\\GetAllUsersCommandQueryHandler.cs",
+              "RelativeToolTip": "CQRS-crud.Application\\UseCases\\Users\\Handlers\\GetAllUsersCommandQueryHandler.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-12T11:37:04.775Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\A C E R   N I T R O\\Documents\\.NET\\Uy ishi\\CQRS-crud\\CQRS-crud.Infrastructure\\Persistence\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "CQRS-crud.Infrastructure\\Persistence\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\A C E R   N I T R O\\Documents\\.NET\\Uy ishi\\CQRS-crud\\CQRS-crud.Infrastructure\\Persistence\\AppDbContext.cs",
+              "RelativeToolTip": "CQRS-crud.Infrastructure\\Persistence\\AppDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAABbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-12T07:15:23.545Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DependencyInjection.cs",
+              "DocumentMoniker": "C:\\Users\\A C E R   N I T R O\\Documents\\.NET\\Uy ishi\\CQRS-crud\\CQRS-crud.Infrastructure\\DependencyInjection.cs",
+              "RelativeDocumentMoniker": "CQRS-crud.Infrastructure\\DependencyInjection.cs",
+              "ToolTip": "C:\\Users\\A C E R   N I T R O\\Documents\\.NET\\Uy ishi\\CQRS-crud\\CQRS-crud.Infrastructure\\DependencyInjection.cs",
+              "RelativeToolTip": "CQRS-crud.Infrastructure\\DependencyInjection.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-12T07:26:57.292Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\A C E R   N I T R O\\Documents\\.NET\\Uy ishi\\CQRS-crud\\API\\appsettings.json",
+              "RelativeDocumentMoniker": "API\\appsettings.json",
+              "ToolTip": "C:\\Users\\A C E R   N I T R O\\Documents\\.NET\\Uy ishi\\CQRS-crud\\API\\appsettings.json",
+              "RelativeToolTip": "API\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-03-12T11:46:15.189Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DeleteUserCommandHandler.cs",
+              "DocumentMoniker": "C:\\Users\\A C E R   N I T R O\\Documents\\.NET\\Uy ishi\\CQRS-crud\\CQRS-crud.Application\\UseCases\\Users\\Handlers\\DeleteUserCommandHandler.cs",
+              "RelativeDocumentMoniker": "CQRS-crud.Application\\UseCases\\Users\\Handlers\\DeleteUserCommandHandler.cs",
+              "ToolTip": "C:\\Users\\A C E R   N I T R O\\Documents\\.NET\\Uy ishi\\CQRS-crud\\CQRS-crud.Application\\UseCases\\Users\\Handlers\\DeleteUserCommandHandler.cs",
+              "RelativeToolTip": "CQRS-crud.Application\\UseCases\\Users\\Handlers\\DeleteUserCommandHandler.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-12T10:23:44.268Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\A C E R   N I T R O\\Documents\\.NET\\Uy ishi\\CQRS-crud\\API\\Program.cs",
+              "RelativeDocumentMoniker": "API\\Program.cs",
+              "ToolTip": "C:\\Users\\A C E R   N I T R O\\Documents\\.NET\\Uy ishi\\CQRS-crud\\API\\Program.cs",
+              "RelativeToolTip": "API\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-12T11:47:36.241Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "GetUserByIdCommandQueryHandler.cs",
+              "DocumentMoniker": "C:\\Users\\A C E R   N I T R O\\Documents\\.NET\\Uy ishi\\CQRS-crud\\CQRS-crud.Application\\UseCases\\Users\\Handlers\\GetUserByIdCommandQueryHandler.cs",
+              "RelativeDocumentMoniker": "CQRS-crud.Application\\UseCases\\Users\\Handlers\\GetUserByIdCommandQueryHandler.cs",
+              "ToolTip": "C:\\Users\\A C E R   N I T R O\\Documents\\.NET\\Uy ishi\\CQRS-crud\\CQRS-crud.Application\\UseCases\\Users\\Handlers\\GetUserByIdCommandQueryHandler.cs",
+              "RelativeToolTip": "CQRS-crud.Application\\UseCases\\Users\\Handlers\\GetUserByIdCommandQueryHandler.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-12T11:38:43.273Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "GetUserByIdCommandQuery.cs",
+              "DocumentMoniker": "C:\\Users\\A C E R   N I T R O\\Documents\\.NET\\Uy ishi\\CQRS-crud\\CQRS-crud.Application\\UseCases\\Users\\Queries\\GetUserByIdCommandQuery.cs",
+              "RelativeDocumentMoniker": "CQRS-crud.Application\\UseCases\\Users\\Queries\\GetUserByIdCommandQuery.cs",
+              "ToolTip": "C:\\Users\\A C E R   N I T R O\\Documents\\.NET\\Uy ishi\\CQRS-crud\\CQRS-crud.Application\\UseCases\\Users\\Queries\\GetUserByIdCommandQuery.cs",
+              "RelativeToolTip": "CQRS-crud.Application\\UseCases\\Users\\Queries\\GetUserByIdCommandQuery.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-12T11:35:45.238Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "UserNotFoundException.cs",
+              "DocumentMoniker": "C:\\Users\\A C E R   N I T R O\\Documents\\.NET\\Uy ishi\\CQRS-crud\\CQRS-crud.Domain\\Entities\\Exceptions\\UserNotFoundException.cs",
+              "RelativeDocumentMoniker": "CQRS-crud.Domain\\Entities\\Exceptions\\UserNotFoundException.cs",
+              "ToolTip": "C:\\Users\\A C E R   N I T R O\\Documents\\.NET\\Uy ishi\\CQRS-crud\\CQRS-crud.Domain\\Entities\\Exceptions\\UserNotFoundException.cs",
+              "RelativeToolTip": "CQRS-crud.Domain\\Entities\\Exceptions\\UserNotFoundException.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-12T11:42:35.856Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "GetAllUsersCommandQuery.cs",
+              "DocumentMoniker": "C:\\Users\\A C E R   N I T R O\\Documents\\.NET\\Uy ishi\\CQRS-crud\\CQRS-crud.Application\\UseCases\\Users\\Queries\\GetAllUsersCommandQuery.cs",
+              "RelativeDocumentMoniker": "CQRS-crud.Application\\UseCases\\Users\\Queries\\GetAllUsersCommandQuery.cs",
+              "ToolTip": "C:\\Users\\A C E R   N I T R O\\Documents\\.NET\\Uy ishi\\CQRS-crud\\CQRS-crud.Application\\UseCases\\Users\\Queries\\GetAllUsersCommandQuery.cs",
+              "RelativeToolTip": "CQRS-crud.Application\\UseCases\\Users\\Queries\\GetAllUsersCommandQuery.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-12T11:35:28.034Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "DeleteUserCommand.cs",
+              "DocumentMoniker": "C:\\Users\\A C E R   N I T R O\\Documents\\.NET\\Uy ishi\\CQRS-crud\\CQRS-crud.Application\\UseCases\\Users\\Commands\\DeleteUserCommand.cs",
+              "RelativeDocumentMoniker": "CQRS-crud.Application\\UseCases\\Users\\Commands\\DeleteUserCommand.cs",
+              "ToolTip": "C:\\Users\\A C E R   N I T R O\\Documents\\.NET\\Uy ishi\\CQRS-crud\\CQRS-crud.Application\\UseCases\\Users\\Commands\\DeleteUserCommand.cs",
+              "RelativeToolTip": "CQRS-crud.Application\\UseCases\\Users\\Commands\\DeleteUserCommand.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-12T10:22:58.972Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "UpdateUserCommandHandler.cs",
+              "DocumentMoniker": "C:\\Users\\A C E R   N I T R O\\Documents\\.NET\\Uy ishi\\CQRS-crud\\CQRS-crud.Application\\UseCases\\Users\\Handlers\\UpdateUserCommandHandler.cs",
+              "RelativeDocumentMoniker": "CQRS-crud.Application\\UseCases\\Users\\Handlers\\UpdateUserCommandHandler.cs",
+              "ToolTip": "C:\\Users\\A C E R   N I T R O\\Documents\\.NET\\Uy ishi\\CQRS-crud\\CQRS-crud.Application\\UseCases\\Users\\Handlers\\UpdateUserCommandHandler.cs",
+              "RelativeToolTip": "CQRS-crud.Application\\UseCases\\Users\\Handlers\\UpdateUserCommandHandler.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-12T10:14:19.091Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "UpdateUserCommand.cs",
+              "DocumentMoniker": "C:\\Users\\A C E R   N I T R O\\Documents\\.NET\\Uy ishi\\CQRS-crud\\CQRS-crud.Application\\UseCases\\Users\\Commands\\UpdateUserCommand.cs",
+              "RelativeDocumentMoniker": "CQRS-crud.Application\\UseCases\\Users\\Commands\\UpdateUserCommand.cs",
+              "ToolTip": "C:\\Users\\A C E R   N I T R O\\Documents\\.NET\\Uy ishi\\CQRS-crud\\CQRS-crud.Application\\UseCases\\Users\\Commands\\UpdateUserCommand.cs",
+              "RelativeToolTip": "CQRS-crud.Application\\UseCases\\Users\\Commands\\UpdateUserCommand.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-12T10:11:53.496Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "AutoMapperProfile.cs",
+              "DocumentMoniker": "C:\\Users\\A C E R   N I T R O\\Documents\\.NET\\Uy ishi\\CQRS-crud\\CQRS-crud.Application\\Mappers\\AutoMapperProfile.cs",
+              "RelativeDocumentMoniker": "CQRS-crud.Application\\Mappers\\AutoMapperProfile.cs",
+              "ToolTip": "C:\\Users\\A C E R   N I T R O\\Documents\\.NET\\Uy ishi\\CQRS-crud\\CQRS-crud.Application\\Mappers\\AutoMapperProfile.cs",
+              "RelativeToolTip": "CQRS-crud.Application\\Mappers\\AutoMapperProfile.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-12T09:54:37.681Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "CreateUserCommand.cs",
+              "DocumentMoniker": "C:\\Users\\A C E R   N I T R O\\Documents\\.NET\\Uy ishi\\CQRS-crud\\CQRS-crud.Application\\UseCases\\Users\\Commands\\CreateUserCommand.cs",
+              "RelativeDocumentMoniker": "CQRS-crud.Application\\UseCases\\Users\\Commands\\CreateUserCommand.cs",
+              "ToolTip": "C:\\Users\\A C E R   N I T R O\\Documents\\.NET\\Uy ishi\\CQRS-crud\\CQRS-crud.Application\\UseCases\\Users\\Commands\\CreateUserCommand.cs",
+              "RelativeToolTip": "CQRS-crud.Application\\UseCases\\Users\\Commands\\CreateUserCommand.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-12T09:48:39.718Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "DependencyInjection.cs",
+              "DocumentMoniker": "C:\\Users\\A C E R   N I T R O\\Documents\\.NET\\Uy ishi\\CQRS-crud\\CQRS-crud.Application\\DependencyInjection.cs",
+              "RelativeDocumentMoniker": "CQRS-crud.Application\\DependencyInjection.cs",
+              "ToolTip": "C:\\Users\\A C E R   N I T R O\\Documents\\.NET\\Uy ishi\\CQRS-crud\\CQRS-crud.Application\\DependencyInjection.cs",
+              "RelativeToolTip": "CQRS-crud.Application\\DependencyInjection.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-12T07:21:10.733Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "IAppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\A C E R   N I T R O\\Documents\\.NET\\Uy ishi\\CQRS-crud\\CQRS-crud.Application\\Abstractions\\IAppDbContext.cs",
+              "RelativeDocumentMoniker": "CQRS-crud.Application\\Abstractions\\IAppDbContext.cs",
+              "ToolTip": "C:\\Users\\A C E R   N I T R O\\Documents\\.NET\\Uy ishi\\CQRS-crud\\CQRS-crud.Application\\Abstractions\\IAppDbContext.cs",
+              "RelativeToolTip": "CQRS-crud.Application\\Abstractions\\IAppDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-12T07:14:17.178Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\A C E R   N I T R O\\Documents\\.NET\\Uy ishi\\CQRS-crud\\CQRS-crud.Domain\\Entities\\Models\\User.cs",
+              "RelativeDocumentMoniker": "CQRS-crud.Domain\\Entities\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\A C E R   N I T R O\\Documents\\.NET\\Uy ishi\\CQRS-crud\\CQRS-crud.Domain\\Entities\\Models\\User.cs",
+              "RelativeToolTip": "CQRS-crud.Domain\\Entities\\Models\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-12T07:11:17.258Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

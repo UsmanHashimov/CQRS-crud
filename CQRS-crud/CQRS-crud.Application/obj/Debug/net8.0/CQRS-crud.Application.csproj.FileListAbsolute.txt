@@ -1,0 +1,17 @@
+C:\Users\A C E R   N I T R O\Documents\.NET\Uy ishi\CQRS-crud\CQRS-crud.Application\bin\Debug\net8.0\CQRS-crud.Application.deps.json
+C:\Users\A C E R   N I T R O\Documents\.NET\Uy ishi\CQRS-crud\CQRS-crud.Application\bin\Debug\net8.0\CQRS-crud.Application.dll
+C:\Users\A C E R   N I T R O\Documents\.NET\Uy ishi\CQRS-crud\CQRS-crud.Application\bin\Debug\net8.0\CQRS-crud.Application.pdb
+C:\Users\A C E R   N I T R O\Documents\.NET\Uy ishi\CQRS-crud\CQRS-crud.Application\bin\Debug\net8.0\CQRS-crud.Domain.dll
+C:\Users\A C E R   N I T R O\Documents\.NET\Uy ishi\CQRS-crud\CQRS-crud.Application\bin\Debug\net8.0\CQRS-crud.Domain.pdb
+C:\Users\A C E R   N I T R O\Documents\.NET\Uy ishi\CQRS-crud\CQRS-crud.Application\obj\Debug\net8.0\CQRS-crud.Application.csproj.AssemblyReference.cache
+C:\Users\A C E R   N I T R O\Documents\.NET\Uy ishi\CQRS-crud\CQRS-crud.Application\obj\Debug\net8.0\CQRS-crud.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\A C E R   N I T R O\Documents\.NET\Uy ishi\CQRS-crud\CQRS-crud.Application\obj\Debug\net8.0\CQRS-crud.Application.AssemblyInfoInputs.cache
+C:\Users\A C E R   N I T R O\Documents\.NET\Uy ishi\CQRS-crud\CQRS-crud.Application\obj\Debug\net8.0\CQRS-crud.Application.AssemblyInfo.cs
+C:\Users\A C E R   N I T R O\Documents\.NET\Uy ishi\CQRS-crud\CQRS-crud.Application\obj\Debug\net8.0\CQRS-crud.Application.csproj.CoreCompileInputs.cache
+C:\Users\A C E R   N I T R O\Documents\.NET\Uy ishi\CQRS-crud\CQRS-crud.Application\obj\Debug\net8.0\CQRS-cru.5D877D7D.Up2Date
+C:\Users\A C E R   N I T R O\Documents\.NET\Uy ishi\CQRS-crud\CQRS-crud.Application\obj\Debug\net8.0\CQRS-crud.Application.dll
+C:\Users\A C E R   N I T R O\Documents\.NET\Uy ishi\CQRS-crud\CQRS-crud.Application\obj\Debug\net8.0\refint\CQRS-crud.Application.dll
+C:\Users\A C E R   N I T R O\Documents\.NET\Uy ishi\CQRS-crud\CQRS-crud.Application\obj\Debug\net8.0\CQRS-crud.Application.pdb
+C:\Users\A C E R   N I T R O\Documents\.NET\Uy ishi\CQRS-crud\CQRS-crud.Application\obj\Debug\net8.0\ref\CQRS-crud.Application.dll
+C:\Users\A C E R   N I T R O\Documents\.NET\Uy ishi\CQRS-crud\CQRS-crud.Application\bin\Debug\net8.0\CQRS-crud.Application.runtimeconfig.json
+C:\Users\A C E R   N I T R O\Documents\.NET\Uy ishi\CQRS-crud\CQRS-crud.Application\obj\Debug\net8.0\CQRS-crud.Application.genruntimeconfig.cache
